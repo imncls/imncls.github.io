@@ -2,7 +2,7 @@
 layout: page
 title: Duel Assistant
 description: "Asistente para partidas físicas de Yu-Gi-Oh! — contador de LP, gestión de mazos y estadísticas, todo offline."
-category: fun
+category: projects
 importance: 1
 permalink: /apps/duel-assistant/
 ---
