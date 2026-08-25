@@ -38,4 +38,4 @@ By using the app you accept these terms and the privacy policy.
 
 ---
 
-[← Duel Duel Logbook](/apps/duel-logbook/) &middot; [Política de privacidad / Privacy Policy](/apps/duel-logbook/privacy/)
+[← Duel Logbook](/apps/duel-logbook/) &middot; [Política de privacidad / Privacy Policy](/apps/duel-logbook/privacy/)
