@@ -12,7 +12,7 @@ nav: false
 
 ## Política de privacidad — Duel Logbook
 
-*Última actualización: 23 de agosto de 2026*
+*Última actualización: 30 de agosto de 2026*
 
 Duel Logbook guarda toda tu información (perfiles, mazos, partidas, duelos y estadísticas) únicamente en el almacenamiento local de tu dispositivo. No existe ningún servidor propio ni cuenta de usuario: nadie más que tú tiene acceso a esos datos.
 
@@ -22,13 +22,15 @@ Duel Logbook guarda toda tu información (perfiles, mazos, partidas, duelos y es
 
 **Datos de cartas:** para mostrar información e imágenes de cartas, la app consulta la API pública de YGOPRODeck (ygoprodeck.com). Estas consultas incluyen únicamente el nombre o ID de la carta buscada — nunca datos personales ni identificadores de tu dispositivo. Las imágenes se guardan en caché local para no repetir descargas.
 
-Esta app no usa analítica de uso ni comparte datos con terceros más allá de la consulta de cartas descrita arriba.
+**Anuncios:** la app muestra anuncios de Google AdMob en las pestañas normales (nunca durante un duelo activo). AdMob puede usar el identificador de publicidad de tu dispositivo para mostrar y medir esos anuncios; puedes gestionar la personalización de anuncios desde los ajustes de privacidad de tu dispositivo Android. La compra "quitar anuncios" en Ajustes elimina el banner por completo.
+
+Esta app no usa analítica de uso propia ni comparte datos con terceros más allá de lo descrito arriba (consulta de cartas y anuncios).
 
 <a id="en"></a>
 
 ## Privacy Policy — Duel Logbook
 
-*Last updated: August 23, 2026*
+*Last updated: August 30, 2026*
 
 Duel Logbook stores all your information (profiles, decks, matches, duels, and statistics) only on your device's local storage. There is no server of ours and no user account: nobody but you has access to that data.
 
@@ -38,7 +40,9 @@ Duel Logbook stores all your information (profiles, decks, matches, duels, and s
 
 **Card data:** to show card info and images, the app queries the public YGOPRODeck API (ygoprodeck.com). These requests include only the searched card's name or ID — never personal data or device identifiers. Images are cached locally so they aren't downloaded again.
 
-This app doesn't use usage analytics or share data with third parties beyond the card lookup described above.
+**Ads:** the app shows Google AdMob ads on the normal tabs (never during an active duel). AdMob may use your device's advertising identifier to show and measure those ads; you can manage ad personalization from your Android device's privacy settings. The "remove ads" purchase in Settings removes the banner entirely.
+
+This app doesn't use its own usage analytics or share data with third parties beyond what's described above (card lookup and ads).
 
 ---
 
