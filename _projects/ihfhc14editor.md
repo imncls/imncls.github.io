@@ -6,7 +6,7 @@ category: projects
 importance: 2
 permalink: /apps/ihfhc14-editor/
 repo_url: https://github.com/imncls/IHFHC14Editor
-release_url: https://github.com/imncls/IHFHC14Editor/releases/tag/1.0.0
+release_url: https://github.com/imncls/IHFHC14Editor/releases/
 ---
 
 ## Español
